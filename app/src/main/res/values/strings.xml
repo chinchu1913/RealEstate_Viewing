@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RealEstate</string>
+    <string name="article_empty_text">No Folders Available</string>
+    <string name="error_text">Error Loading Data</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_read_more">Read More</string>
+    <string name="text_arrow_back">Arrow Back</string>
+    <string name="text_article_details">Real Estate Details</string>
+    <string name="text_refresh">Refresh Button</string>
+    <string name="text_in">In</string>
+    <string name="text_rooms">Rooms</string>
+    <string name="text_bedrooms">Bed Rooms</string>
+    <string name="text_offer_type">Offer Type</string>
+    <string name="text_area">Area</string>
+    <string name="text_type">Property Type</string>
+    <string name="text_city">City</string>
+    <string name="text_professional">Professional</string>
+    <string name="text_price">Price</string>
+    <string name="text_no_connectivity">No internet connection</string>
+    <string name="text_connectivity">Connected</string>
+    <string name="text_error_text">Error Loading data</string>
+</resources>
